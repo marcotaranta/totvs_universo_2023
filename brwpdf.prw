@@ -1,6 +1,6 @@
 #include "totvs.ch"
 
-user function brwjetstream()
+user function brwpdf()
 
     local oWebEngine
     local oWindow
